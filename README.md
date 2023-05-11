@@ -98,7 +98,7 @@ Program for flipflops  and verify its truth table in quartus using Verilog progr
 Developed by: KOUSALYA A.
 RegisterNumber: 212222230068
 */
-
+```
 
 ### RTL LOGIC DIAGRAM
 
